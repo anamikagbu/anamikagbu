@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Anamika Pradhan
 
-<!--
-**anamikagbu/anamikagbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech student in **Data Science at Gautam Buddha University**, building practical skills in AI, machine learning, data analytics, and software development.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, SQL, statistics, and data visualization
+- Machine learning fundamentals and model evaluation
+- Deep learning, NLP, and responsible AI
+- Reproducible projects with clear documentation
+
+## Featured learning project
+
+- [learningai](https://github.com/anamikagbu/learningai) - my structured AI and data-science learning portfolio
+
+## 2026-2027 goal
+
+Build a strong public portfolio with **6 documented projects**, **2 deployed ML applications**, and a solid foundation for internships or research opportunities.
+
+## Connect
+
+- Location: Greater Noida, India
+- University: [Gautam Buddha University](https://www.gbu.ac.in/)
+
+> Learn consistently, build publicly, and measure progress.
